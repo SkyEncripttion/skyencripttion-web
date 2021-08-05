@@ -1,5 +1,5 @@
-import Head from 'next/head'
-import ComingSoon from '../components/comingSoon';
+import Head from "next/head"
+import ComingSoon from "../components/comingSoon";
 
 export default function Home()
 {
