@@ -1,0 +1,4 @@
+Sitemap: https://skyencripttion.com/sitemap.xml
+
+User-agent: *
+Allow: /*
